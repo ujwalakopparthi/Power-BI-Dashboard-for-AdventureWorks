@@ -52,3 +52,10 @@ Integrating real-time data updates for live tracking.
 📢 Contribution
 
 Feel free to contribute by submitting pull requests or reporting issues!
+
+<img width="1023" alt="Screenshot 2025-02-19 at 12 30 46 PM" src="https://github.com/user-attachments/assets/87d35618-fd33-46c3-b22f-83de94b5e051" />
+<img width="1025" alt="Screenshot 2025-02-19 at 12 31 00 PM" src="https://github.com/user-attachments/assets/914e70a5-736f-4f42-ba43-945867a29760" />
+<img width="1028" alt="Screenshot 2025-02-19 at 12 31 11 PM" src="https://github.com/user-attachments/assets/3231e7ab-7221-4137-9d04-caa05976c9e8" />
+<img width="1024" alt="Screenshot 2025-02-19 at 12 31 25 PM" src="https://github.com/user-attachments/assets/8e2e3581-8439-4164-a278-8aca16185973" />
+
+
